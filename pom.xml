@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>af.cmr.indyli.gespro.trans</groupId>
-	<artifactId>gesproe-ws</artifactId>
+	<artifactId>gesproe-rfe-ws</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
-	<name>gesproe-ws</name>
+	<name>gesproe-rfe-ws</name>
 	<description>Module WS de gestion des API Gespro(Enonce)</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
